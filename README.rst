@@ -1,3 +1,10 @@
+.. image:: https://github.com/pacificclimate/climdex.pcic.ncdf/workflows/R%20CI/badge.svg
+    :target: https://github.com/pacificclimate/climdex.pcic.ncdf
+
+.. image:: https://github.com/pacificclimate/climdex.pcic.ncdf/workflows/R%20CI%20CRAN/badge.svg
+    :target: https://github.com/pacificclimate/climdex.pcic.ncdf
+
+
 What is climdex.pcic.ncdf?
 =====================
 
